@@ -10,7 +10,7 @@ A virtual mouse is application that allows users to send mouse commands to a com
       
     
   Download and Extract the Project Folder Name Virtual-Mouse.<br>
-  And then Open the Virtual-Mouse Folder in VsCode as shown in Video.
+  And then Open the Virtual-Mouse Folder in Pycharm.
   
   Step 1: 
   ```bash
@@ -24,4 +24,5 @@ A virtual mouse is application that allows users to send mouse commands to a com
   ```
  
     
-  
+  ![image](https://user-images.githubusercontent.com/67673221/161561417-3fdadf19-e2aa-4f43-b58f-100e4b60217f.png)
+
