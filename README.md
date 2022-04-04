@@ -4,7 +4,7 @@ A virtual mouse is application that allows users to send mouse commands to a com
 <p align="left"> <a href="https://www.jetbrains.com/pycharm/features/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/> </a> <br>
   <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a><br>
     
-  # How to setup and run
+  <h3>How to setup and run</h3>
     Python: (3.6 - 3.8.5)<br>
     Pycharm:<a href="https://www.jetbrains.com/pycharm/features/">Click Here to download</a><br>
       
@@ -14,22 +14,12 @@ A virtual mouse is application that allows users to send mouse commands to a com
   
   Step 1: 
   ```bash
-  conda create --name gest python=3.8.5
+   pip install -r requirements.txt
   ```
   
   Step 2:
+     cd to src by cd src
   ```bash
-  conda activate gest
-  ```
-  
-  Step 3:  
-  ```bash
-  pip install -r requirements.txt
-  ```
-  
-  Step 4:
-  cd to src by cd src
-  ```bash 
   python Virtual_Mouse.py
   ```
  
