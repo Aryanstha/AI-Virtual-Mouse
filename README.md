@@ -10,7 +10,7 @@ A virtual mouse is application that allows users to send mouse commands to a com
     Download and Extract the Project Folder Name Virtual-Mouse.<br>
     And then Open the Virtual-Mouse Folder in py charm.
       
-    Step 1: Installing required module
+    
   ```bash
   pip install -r requirements.txt
   ```
