@@ -10,7 +10,8 @@ A virtual mouse is application that allows users to send mouse commands to a com
     Pycharm:<a href="https://www.jetbrains.com/pycharm/features/">Click Here to download</a><br>
     Download and Extract the Project Folder Name Virtual-Mouse.<br>
     And then Open the Virtual-Mouse Folder in <p align="left"> <a href="https://www.jetbrains.com/pycharm/features/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/> <br>
-       Step 1: 
+      
+    Step 1: 
   ```bash
   pip install -r requirements.txt
   ```
