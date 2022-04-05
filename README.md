@@ -20,7 +20,7 @@ A virtual mouse is application that allows users to send mouse commands to a com
   Step 2:
      cd to src by cd src
   ```bash
-  python Virtual_Mouse.py
+  python main.py
   ```
  
     
